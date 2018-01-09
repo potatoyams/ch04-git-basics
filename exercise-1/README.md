@@ -23,8 +23,9 @@ breakfast today
 
 6. Using your terminal, add and commit the changes you've made to your repository
 
-1) Bacon
-2) Eggs
-3) WaTeR
+TODO:
+* Bacon
+* Eggs
+* WaTeR
 
 7. Push changes up to GitHub
